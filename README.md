@@ -1,3 +1,8 @@
+# Содержание
+
+Режимы работы через стейты компонентов-потомков.
+HTML таблица, по нажатию на любую ячейку таблицы в этой ячейке появляеться инпут для редактирования, сохранение значений из инпута в ячейку по onBlur.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
